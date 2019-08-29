@@ -1,0 +1,40 @@
+#h1 {
+    text-align: center;
+    background-color: rgb(173, 216, 230);
+    padding: 20px;
+    margin: -15px;
+    font-size: 50px;
+    font-family: sans-serif;
+    border-color:blue;
+    border-width: 5px;
+}
+#p1 {
+    text-align: center;
+    background-color: rgb(173, 216, 230);
+    padding: 20px;
+    margin: -15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-color:blue;
+    border-width: 5px;
+}
+#hr {
+    width: 100%;
+    font-weight: thick;
+    color: black;
+}
+#p2 {
+    float: left;
+    margin: -15%;
+    padding: 5%;
+    width: 40%;
+}
+#p3 {
+        float: right;
+        margin: -15%;
+        padding: 5%;
+        width: 60%;
+}
+#font {
+    font-family: sans-serif;
+}
